@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ../data/ | grep ".txt$"
+ls %0../data/ | grep ".txt$"
